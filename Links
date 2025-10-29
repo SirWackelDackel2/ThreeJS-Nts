@@ -1,0 +1,8 @@
+// ThreeJS Module
+"three": "https://cdn.jsdelivr.net/npm/three@0.180.0/build/three.module.js
+
+// ThreeJS JSM
+"jsm/": "https://cdn.jsdelivr.net/npm/three@0.180.0/examples/jsm/"
+
+// Model Path
+'https://raw.githack.com/SirWackelDackel2/ThreeJS-Nts/main/'
